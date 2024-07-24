@@ -1,0 +1,116 @@
+# Aspose.3D Wavefront OBJ Exporter
+# Copyright 2004-2024 Aspose Pty Ltd.
+# File created: 07/01/2024 09:59:56
+
+newmtl mat_1432385
+	Ka 0.2 0.2 0.2
+	Kd 0.8 0.8 0.8
+	Ke 0 0 0
+	illum 2
+	d 1
+	Tr 0
+	map_Kd texture_1.png
+newmtl mat_33585964
+	Ka 0.2 0.2 0.2
+	Kd 0.8 0.8 0.8
+	Ke 0 0 0
+	illum 2
+	d 1
+	Tr 0
+	map_Kd texture_2.png
+newmtl mat_25453770
+	Ka 0.2 0.2 0.2
+	Kd 0.8 0.8 0.8
+	Ke 0 0 0
+	illum 2
+	d 1
+	Tr 0
+	map_Kd texture_3.jpg
+newmtl mat_13132100
+	Ka 0.2 0.2 0.2
+	Kd 0.8 0.8 0.8
+	Ke 0 0 0
+	illum 2
+	d 1
+	Tr 0
+	map_Kd texture_4.png
+newmtl mat_186689
+	Ka 0.2 0.2 0.2
+	Kd 0.8 0.8 0.8
+	Ke 0 0 0
+	illum 2
+	d 1
+	Tr 0
+	map_Kd texture_5.png
+newmtl mat_48970986
+	Ka 0.2 0.2 0.2
+	Kd 0.8 0.8 0.8
+	Ke 0 0 0
+	illum 2
+	d 1
+	Tr 0
+	map_Kd texture_6.png
+newmtl mat_60222439
+	Ka 0.2 0.2 0.2
+	Kd 0.8 0.8 0.8
+	Ke 0 0 0
+	illum 2
+	d 1
+	Tr 0
+	map_Kd texture_7.png
+newmtl mat_40475999
+	Ka 0.2 0.2 0.2
+	Kd 0.8 0.8 0.8
+	Ke 0 0 0
+	illum 2
+	d 1
+	Tr 0
+	map_Kd texture_8.png
+newmtl mat_37832698
+	Ka 0.2 0.2 0.2
+	Kd 0.8 0.8 0.8
+	Ke 0 0 0
+	illum 2
+	d 1
+	Tr 0
+	map_Kd texture_9.png
+newmtl mat_59083233
+	Ka 0.2 0.2 0.2
+	Kd 0.8 0.8 0.8
+	Ke 0 0 0
+	illum 2
+	d 1
+	Tr 0
+	map_Kd texture_10.png
+newmtl mat_4362427
+	Ka 0.2 0.2 0.2
+	Kd 0.8 0.8 0.8
+	Ke 0 0 0
+	illum 2
+	d 1
+	Tr 0
+	map_Kd texture_11.png
+newmtl mat_49775025
+	Ka 0.2 0.2 0.2
+	Kd 0.8 0.8 0.8
+	Ke 0 0 0
+	illum 2
+	d 1
+	Tr 0
+	map_Kd texture_12.png
+newmtl mat_20996459
+	Ka 0.2 0.2 0.2
+	Kd 0.8 0.8 0.8
+	Ke 0 0 0
+	illum 2
+	d 1
+	Tr 0
+	map_Kd texture_13.png
+newmtl mat_50560015
+	Ka 0.2 0.2 0.2
+	Kd 0.8 0.8 0.8
+	Ke 0 0 0
+	illum 2
+	d 1
+	Tr 0
+	map_Kd texture_14.png

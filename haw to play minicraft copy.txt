@@ -1,0 +1,17 @@
+to play this game u need to install python from(https://www.python.org/downloads/)
+then open cmd and type ( py get-pip.py)
+the type (pip install urisina)
+
+Haw to play:
+to move use (w,a,s,d)
+
+to jump use (space)
+
+to place wood press (left click )
+
+to place stone press (e)
+
+to place grass press (f)
+
+to place water press (q)
+

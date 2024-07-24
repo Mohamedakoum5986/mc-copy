@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head><center><i>welcome to Minecraft copy</i></head></center>
+<body>
+< body bgcolor= "#47ba30">
+<br>
+after installing the file <a href=""></ahref>minicraft bsl v8.2.05 dawnload </a>
+<br>
+to play this game u need to install python from(https://www.python.org/downloads/)
+then open cmd and type ( py get-pip.py)
+the type (pip install urisina)
+
+<br>
+<i>Haw to Play
+<br>
+to move use (w,a,s,d)
+<br>
+to jump use (space)
+<br>
+to place wood press (left click )
+<br>
+to place stone press (e)
+<br>
+to place grass press (f)
+<br>
+to place water press (q)
+
+
